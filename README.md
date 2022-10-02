@@ -1,4 +1,4 @@
-# Time_Series
+# Prediction in Time Series Dataset
 by Rahul Mishra(102083033)
 
 - Predict values of 5 parameters based on multi-input time series data.
